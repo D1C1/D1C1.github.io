@@ -4,10 +4,16 @@
 .item-a{
     text-align: center;
 }
-
+.item{
+  text-align: center;
+}
 body{
   background-color: rgb(197, 197, 197);
   font-family: Arial, Helvetica, sans-serif;
+}
+.frame {
+  width: auto;
+  height: auto;
 }
 
 .grid {
