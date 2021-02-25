@@ -8,6 +8,7 @@
 }
 .item{
   text-align: center;
+  overflow: hidden;
 }
 body{
   background-color: rgb(197, 197, 197);
